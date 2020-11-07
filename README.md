@@ -7,3 +7,6 @@ Single handedly built using HTML5 and CSS coding with ATOM 1.52.0.
 ## Design Process
 - Converted sketch thumbnails to Adobe Xd in order to forumulate wireframes and color styling
 - Composed HTML5 and CSS coding derived from what was learned during the course in order to create a functioning website
+
+### Link to website:
+http://ada.csueastbay.edu/~ur9995/project1/index.html
