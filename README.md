@@ -9,4 +9,4 @@ Single handedly built using HTML5 and CSS coding with ATOM 1.52.0.
 - Composed HTML5 and CSS coding derived from what was learned during the course in order to create a functioning website
 
 ### Link to website:
-http://ada.csueastbay.edu/~ur9995/project1/index.html
+ https://jtabunan.github.io/mock-site-rozchast/
