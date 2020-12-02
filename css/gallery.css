@@ -1,0 +1,68 @@
+main {
+  width: 1000px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(253,244,153);
+}
+li {
+  display: block;
+  display: inline;
+  font-family: 'Roboto Slab', serif;
+  padding: 30px;
+}
+nav a:link, nav a:visited {
+  text-decoration: none;
+  color: #151EA3;
+}
+nav a:hover {
+  color: rgb(226,224,254);
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Londrina Sketch', cursive;
+  text-align: center;
+  color: rgb(249, 76, 84);
+  font-size: 60px;
+}
+
+h4 {
+  font-family: 'Roboto Slab', serif;
+  text-align: left;
+  color: #151EA3;
+}
+
+.img {
+  margin-left: auto;
+  padding: 2px;
+}
+.galleryfooter {
+  text-align: center;
+}
+.roz2 {
+  height: 100%;
+  width: 70%;
+}
+.roz4 {
+  width: 100%;
+  height: 80%;
+}
+.newyorker {
+  width: 80%;
+  height: 80%;
+}
+.amemoir {
+  width: 70%;
+  height: 70%;
+}
+
+figcaption {
+  font-family: 'Coming Soon', cursive;
+}

@@ -1,0 +1,69 @@
+main {
+  width: 1000px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(253,244,153);
+}
+li {
+  display: block;
+  display: inline;
+  font-family: 'Roboto Slab', serif;
+  padding: 30px;
+}
+
+nav a:link, nav a:visited {
+  text-decoration: none;
+  color: #151EA3;
+}
+nav a:hover {
+  color: rgb(226,224,254);
+  text-decoration: none;
+}
+
+h1 {
+  font-family: 'Londrina Sketch', cursive;
+  text-align: center;
+  color: rgb(249, 76, 84);
+  font-size: 60px;
+}
+
+h2, p {
+  text-align: left;
+}
+h2 {
+  font-family: 'Coming Soon', cursive;
+  color: rgb(249,76,84);
+  text-align: left;
+  text-align: justify;
+}
+
+p {
+  font-family: 'Roboto Slab', serif;
+  text-align: left;
+  text-align: justify;
+}
+
+h3 {
+  color: #151EA3;
+  text-align: left;
+  font-family: 'Roboto Slab', serif;
+}
+h4 {
+  color: #151EA3;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+footer {
+  font-family: 'Roboto Slab', serif;
+}
+
+.homeimg {
+  width: 100%;
+}
